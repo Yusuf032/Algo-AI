@@ -15,7 +15,7 @@ Before Starting make sure following tools are already installed in your pc :
 <p>1. Simple clone the repo and use it.</p>
 
 ```
-git clone https://github.com/HATAKEkakshi/Infobit-Ai.git
+git clone https://github.com/Yusuf032/Algo-AI
 ```
 <p>2.create an conda environment .</p>
 
